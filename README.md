@@ -25,7 +25,7 @@
  
 <div> 
    <a href="https://www.linkedin.com/in/mateus-cintra-704985222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.behance.net/mateusfcintra" target="_blank"><img src="https://img.shields.io/badge/-Behance-%230077B5?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+  <a href="https://www.behance.net/mateusfcintra" target="_blank"><img src="https://img.shields.io/badge/-Behance-3152A0?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/MBfW3ty" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mateusdade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
