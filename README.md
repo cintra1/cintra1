@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, Prazer Mateus Cintra</h1>
 <h3 align="center">Um desenvolvedor C#</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cintra1&label=Profile%20views&color=0e75b6&style=flat" alt="cintra1" /> </p>
-
 - 🔭 Atualmente estou trabalhando **com Front-End (WordPress)**
 
 - 🌱 Atualmente estou aprendendo **.NET e React**
