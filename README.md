@@ -2,9 +2,9 @@
 
 - 🔭 Atualmente estou trabalhando **com Front-End (WordPress)**
 
-- 🌱 Atualmente estou aprendendo **.NET e React**
+- 🌱 Atualmente estou programando em **.NET (C#) e React**
 
-<div align="center">
+<div>
   <a href="https://github.com/cintra1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintra1&theme=dracula&hide_border=false&&layout=compact"/>
 </div>
