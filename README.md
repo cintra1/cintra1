@@ -1,8 +1,8 @@
 ## Olá 👋, Prazer Mateus Cintra
 
-- 🔭 Atualmente estou trabalhando **com Front-End (WordPress)**
+- 🔭 Atualmente estou trabalhando **com Engenharia de Dados**
 
-- 🌱 Atualmente estou programando em **.NET (C#) e React**
+- 🌱 Atualmente estou programando em **Python**
 
 <div align="center">
   <a href="https://github.com/cintra1">
