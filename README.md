@@ -1,4 +1,4 @@
-## Olá 👋, Prazer Mateus Cintra
+## Olá, me chamo Mateus Cintra
 
 - 🔭 Atualmente estou trabalhando **com Engenharia de Dados**
 
