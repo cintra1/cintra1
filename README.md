@@ -1,8 +1,8 @@
 ## Olá, me chamo Mateus Cintra
 
-- 🔭 Atualmente estou trabalhando **com Engenharia de Dados**
+- Atualmente estou trabalhando **com Engenharia de Dados**
 
-- 🌱 Atualmente estou programando em **Python**
+- Atualmente estou programando em **Python**
 
 <div align="center">
   <a href="https://github.com/cintra1">
