@@ -7,4 +7,4 @@ Data Engineer @Tembici.
 
 Atualmente estou trabalhando com **Engenharia de Dados** com foco em Google Cloud Plataform, e programando em **Python**.
 
-Estou dedicado a expandir meu conhecimento em Ciência de Dados, Inteligência Artificial e Engenharia de Software, buscando constantemente integrar as mais recentes inovações do mercado tecnológico.
+Estou dedicado a expandir meu conhecimento em Engenharia de Software, Inteligência Artificial e Cloud Computing, buscando constantemente integrar as mais recentes inovações do mercado tecnológico.
