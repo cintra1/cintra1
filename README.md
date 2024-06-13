@@ -1,6 +1,6 @@
 ## Olá, me chamo Mateus Cintra
 
-- Atualmente estou trabalhando **com Engenharia de Dados**
+- Atualmente estou trabalhando **com Engenharia de Dados** com foco em Google Cloud
 
 - Atualmente estou programando em **Python**
 
