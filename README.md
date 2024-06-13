@@ -1,26 +1,12 @@
-## Olá, me chamo Mateus Cintra
+# Mateus Cintra
 
-- Atualmente estou trabalhando **com Engenharia de Dados** com foco em Google Cloud
+Data Engineer @Tembici.
 
-- Atualmente estou programando em **Python**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cintra1&color=blue" alt="Visualizacões de perfil" /> </p>
 
-<div align="center">
-  <a href="https://github.com/cintra1">
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Dot-Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Dot-Net" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
-  
-  ##
- 
-<div> 
-   <a href="https://www.linkedin.com/in/mateus-cintra-704985222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.behance.net/mateusfcintra" target="_blank"><img src="https://img.shields.io/badge/-Behance-3152A0?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mateusdade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-cintra/)](https://www.linkedin.com/in/mateus-cintra/) 
+[![Gmail Badge](https://img.shields.io/badge/-mateusdade@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusdade@gmail.com)](mailto:mateusdade@gmail.com)
 
+Graduando em Sistemas de Informação na Universidade de São Paulo (USP) e técnico em Desenvolvimento de Sistemas pela ETESP, com uma paixão por tecnologia e inovação.
 
-
+Atualmente estou trabalhando com **Engenharia de Dados** com foco em Google Cloud Plataform, e programando em **Python**.
