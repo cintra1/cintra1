@@ -1,6 +1,6 @@
 # Mateus Cintra
 
-Data Engineer @Tembici.
+IT Intern @BTG Pactual.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Cintra-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-cintra/)](https://www.linkedin.com/in/mateus-cintra/) 
 [![Gmail Badge](https://img.shields.io/badge/-mateusdade@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusdade@gmail.com)](mailto:mateusdade@gmail.com)
